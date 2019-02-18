@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Vendor: Pivotal Software, Inc.
-Implementation-Title: kataTennis-project
-Implementation-Version: 1.0.0
-Implementation-Vendor-Id: fr.com.kata.tennis
-Build-Jdk: 1.7.0_07
-Built-By: OUSSAMA-ALOUI
-Created-By: Maven Integration for Eclipse
-
